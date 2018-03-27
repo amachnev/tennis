@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
     <ProjectDir>$(MSBuildThisFileDirectory)</ProjectDir>
-    <SourceDir>$(ProjectDir)src/</SourceDir>
+    <SourceDir>$(ProjectDir)src\</SourceDir>
   </PropertyGroup>
 </Project>
