@@ -1,2 +1,1 @@
-# tennis
-Tennis App
+# Tennis app

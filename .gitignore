@@ -1,0 +1,31 @@
+# Build results
+[Bb]in
+[Oo]bj
+[Dd]ebug
+[Rr]elease
+msbuild.log
+msbuild.err
+msbuild.wrn
+msbuild.binlog
+*.obj
+*.pdb
+*.log
+*.vspscc
+*.vssscc
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2015
+.vs/
+
+# VS Code
+.vscode
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
