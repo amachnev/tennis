@@ -21,6 +21,7 @@ msbuild.binlog
 
 # Visual Studio 2015
 .vs/
+launchSettings.json
 
 # VS Code
 .vscode
