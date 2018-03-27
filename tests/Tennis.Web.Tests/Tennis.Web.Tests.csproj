@@ -9,6 +9,6 @@
     <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Tennis.Web\Tennis.Web.csproj" />
+    <ProjectReference Include="$(SourceDir)Tennis.Web\Tennis.Web.csproj" />
   </ItemGroup>
 </Project>
